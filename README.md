@@ -21,6 +21,6 @@ Discussion: [Link][L4]
 [L1]: https://github.com/shinrenpan/Note/discussions/categories/project
 [L2]: https://github.com/shinrenpan/Note/discussions?discussions_q=label:xcode
 [L3]: https://github.com/shinrenpan/Note/discussions?discussions_q=label:MyProject
-[L4]: https://github.com/
+[L4]: [https://github.com/](https://github.com/shinrenpan/Note/discussions/28)
 [L5]: https://github.com/shinrenpan/Note/discussions/27
 [L6]: https://github.com/shinrenpan/MVVVR-Template/releases/latest/
